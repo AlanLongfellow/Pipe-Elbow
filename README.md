@@ -18,7 +18,7 @@ The design includes:
 - Complete GD&T annotations
 - Hand calculations for hoop stress and allowable internal pressure
 - Application of ASME B31.3 design principles and wall thickness rules
-- Designed for bolted installation with gasket groove and countersunk flanges
+- Designed for bolted installation with semicircular gasket groove and countersunk flanges
 
 ---
 
@@ -29,8 +29,10 @@ The design includes:
 | Pipe ID                | 4.000 in           |
 | Wall Thickness         | 0.500 in           |
 | Bend Radius            | 7.000 in (inner)   |
-| Max Internal Pressure  | 5.83 ksi (FoS = 1.5) |
+| Gasket Diameter        | 1/16 in            |
+| Max Internal Pressure  | 5.000 ksi          |
 | Material               | ASTM A106 Grade B  |
+| Factor of Safety       | 1.5                |
 
 ---
 
