@@ -38,9 +38,16 @@ The design includes:
 
 ## Included Files
 
-- Pipe_2D_Drawing.pdf | Fully dimensioned and toleranced drawing
-- Pipe_Hand_Calcs.pdf | Pressure validation and stress analysis
-- Combined_PDF.pdf | Drawing & hand calcs in one document (for reviewers/employers)
+| File                   | Description        |
+|------------------------|--------------------|
+| Pipe_2D_Drawing.sldprt | 3D part file (SolidWorks Maker Edition native file format) | 
+| Pipe_2D_Drawing.step   | 3D part file (STEP open-source file format) | 
+| Pipe_2D_Drawing.stl    | 3D part file (STL open-source file format) | 
+| Pipe_2D_Drawing.igs    | 3D part file (IGES open-source file format) | 
+| Pipe_2D_Drawing.slddrw | Fully dimensioned and toleranced drawing (SolidWorks Maker Edition native file format) | 
+| Pipe_2D_Drawing.pdf    | Fully dimensioned and toleranced drawing (PDF file format) | 
+| Pipe_Hand_Calcs.pdf    | Pressure validation and stress analysis hand calculations | 
+| Combined_PDF.pdf       | Drawing & hand calcs in one document (for reviewers/employers) | 
 
 ---
 
