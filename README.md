@@ -1,13 +1,15 @@
 
-**Author:** Alan C. Longfellow
-**Type:** Portfolio Project / Engineering Demonstration
-**Tools:** SolidWorks, ASME B31.3, Hand Calculations, LaTeX
+**Author:** Alan C. Longfellow  
+**Type:** Portfolio Project / Engineering Demonstration  
+**Tools:** SolidWorks, ASME B31.3, Hand Calculations, LaTeX  
 
 ---
 
 ## Project Overview
 
-This repository contains a fully documented design of a 4-inch flanged steel pipe 90-degree elbow, including:
+This repository contains a fully documented design of a 4-inch flanged steel pipe 90-degree elbow, including:  
+
+![preview](docs/pipe_drawing_preview.png)  
 
 - SolidWorks 2D drawing & 3D part file
 - 3D part file in STEP, IGES, and STL open-source formats
@@ -49,6 +51,6 @@ This project was created to demonstrate proficiency in:
 
 ## Notes
 
-- All work uploaded to this repository is **original, self-authored work provided for demonstration purposes.
+- All work uploaded to this repository is original, self-authored work provided for demonstration purposes.
 - No proprietary or employer-derived material is included.
 - The SolidWorks license used to generate the SLDPRT/SLDDRW native file formats was the 3DXPERIENCE Maker Edition. Commercial SolidWorks users must use DraftSight or a similar viewing software to view the SLDPRT/SLDDRW native file formats
