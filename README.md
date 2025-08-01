@@ -40,12 +40,12 @@ The design includes:
 
 | File                   | Description        |
 |------------------------|--------------------|
-| Pipe_3D_Part.sldprt | 3D part file (SolidWorks Maker Edition native file format) | 
+| Pipe_3D_Part.sldprt | 3D part file (SolidWorks native file format) | 
 | Pipe_3D_Part.step   | 3D part file (STEP open-source file format) | 
 | Pipe_3D_Part.stl    | 3D part file (STL open-source file format) | 
 | Pipe_3D_Part.igs    | 3D part file (IGES open-source file format) | 
-| Pipe_2D_Drawing.slddrw | Fully dimensioned and toleranced drawing (SolidWorks Maker Edition native file format) | 
-| Pipe_2D_Drawing.pdf    | Fully dimensioned and toleranced drawing (PDF file format) | 
+| Pipe_2D_Drawing.slddrw | Fully dimensioned and toleranced drawing (SolidWorks native file format) | 
+| Pipe_2D_Drawing.pdf    | Fully dimensioned and toleranced drawing (PDF) | 
 | Pipe_Hand_Calcs.pdf    | Pressure validation and stress analysis hand calculations | 
 | Combined_PDF.pdf       | Drawing & hand calcs in one document (for reviewers/employers) | 
 
