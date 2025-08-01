@@ -24,11 +24,13 @@ The design includes:
 
 ## Design Specs
 
-- Pipe ID | 4.000 in
-- Wall thickness	| 0.500 in
-- Bend radius	| 7.000 in (inner surface)
-- Max internal pressure	| 5.000 ksi (FoS = 1.5)
-- Material | ASTM A106 Grade B
+| Parameter              | Value              |
+|------------------------|--------------------|
+| Pipe ID                | 4.000 in           |
+| Wall Thickness         | 0.500 in           |
+| Bend Radius            | 7.000 in (inner)   |
+| Max Internal Pressure  | 5.83 ksi (FoS = 1.5) |
+| Material               | ASTM A106 Grade B  |
 
 ---
 
