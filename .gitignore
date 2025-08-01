@@ -1,0 +1,21 @@
+# OS
+
+.DS_Store
+Thumbs.db
+
+# CAD log/temp files
+
+*.sldprt~
+*.sldasm~
+*.bak
+*.swp
+*.log
+*.tmp
+*.lock
+
+# Code
+
+build/
+dist/
+.vscode/
+.idea/
