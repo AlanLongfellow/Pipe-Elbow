@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This repository contains a fully documented design of a 4-inch flanged steel pipe 90-degree elbow:  
+This repository contains a fully documented design of a 4-inch-diameter, flange bolt fastened, 90° steel pipe elbow:  
 
 ![preview](docs/pipe_drawing_preview.png)  
 
