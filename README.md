@@ -66,4 +66,4 @@ This project was created to demonstrate proficiency in:
 
 - All work uploaded to this repository is original, self-authored work provided for demonstration purposes.
 - No proprietary or employer-derived material is included.
-- The SolidWorks license used to generate the SLDPRT/SLDDRW native file formats was the 3DXPERIENCE Maker Edition. Commercial SolidWorks users must use DraftSight or a similar viewing software to view the SLDPRT/SLDDRW native file formats
+- The 3DXPERIENCE Maker Edition of SolidWorks was utilized in the production of this work. Commercial SolidWorks users must use DraftSight or a compatible CAD viewing software to view the SLDPRT/SLDDRW native file formats uploaded to this repository.
