@@ -7,9 +7,11 @@
 
 ## Project Overview
 
-This repository contains a fully documented design of a 4-inch flanged steel pipe 90-degree elbow, including:  
+This repository contains a fully documented design of a 4-inch flanged steel pipe 90-degree elbow:  
 
 ![preview](docs/pipe_drawing_preview.png)  
+
+The design includes:  
 
 - SolidWorks 2D drawing & 3D part file
 - 3D part file in STEP, IGES, and STL open-source formats
